@@ -1,0 +1,12 @@
+1. User clicks on a button to roll their dice
+  a. Eventlistener on a button element
+  b. randomly generate a number between 1 and 6
+  c. show the user what they rolled
+2. Roll a dice for the computer opponent
+  a. randomly generate a number between 1 and 6
+  b. show the user what the computer rolled
+3. Compare the outcomes, determine a winner
+  a. if user roll is greater than the computer roll, user wins
+  b. else computer wins
+  c. if tie, nobody wins
+4. Award the winner points, and offer another roll
